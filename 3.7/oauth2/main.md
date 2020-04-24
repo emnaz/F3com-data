@@ -3,7 +3,7 @@
 Lightweight OAuth2 client
 
 Namespace: `Web` <br>
-File location: `lib/web/oatuh2.php`
+File location: `lib/web/oauth2.php`
 
 ---
 
